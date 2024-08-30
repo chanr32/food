@@ -21,11 +21,13 @@
 
 ### Referrences
 
-- https://www.youtube.com/watch?v=93Zi063pkq0
+- https://www.youtube.com/watch?v=t6DmS6ULH3E
 
-| Name                                                             | Type            | Details |
-| ---------------------------------------------------------------- | --------------- | ------- |
-| [Tsukemen Ide honten](https://maps.app.goo.gl/XTgpT2HJwtiUgevk6) | Dipping noodles |
+| Name                                                                          | Type             | Details     |
+| ----------------------------------------------------------------------------- | ---------------- | ----------- |
+| [Itsukichaya - Pontocho](https://maps.app.goo.gl/4xK2SzZhNGZkGaRN9)           | Set meal         | Reservation |
+| [Wagyu Carpaccio & Steak KATAMARI](https://maps.app.goo.gl/kehLGWBuejgdiFUj7) | Beef tartar      |             |
+| [Fukujuen Kyoto Main Store](https://maps.app.goo.gl/X1rvUeW5tUQ3g5Zm8)        | Tea and desserts |             |
 
 - Fish Market
   - [Kyoto](https://maps.app.goo.gl/J6So1fYi4ktFbTAg9)
