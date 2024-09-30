@@ -17,20 +17,6 @@
 | [Momo](https://maps.app.goo.gl/ac2qF84hJ9d3LWjQ9)                            | katsu           |                                           |
 | [Columbia 8 Kitahama Main Branch](https://maps.app.goo.gl/W4ktXqGDJQZhDFbr8) | Spice curry     | Go early                                  |
 
-## Kyoto
-
-### Referrences
-
-- https://www.youtube.com/watch?v=t6DmS6ULH3E
-
-| Name                                                                                | Type             | Details     |
-| ----------------------------------------------------------------------------------- | ---------------- | ----------- |
-| [Itsukichaya - Pontocho](https://maps.app.goo.gl/4xK2SzZhNGZkGaRN9)                 | Set meal         | Reservation |
-| [Wagyu Carpaccio & Steak KATAMARI](https://maps.app.goo.gl/kehLGWBuejgdiFUj7)       | Beef tartar      |             |
-| [Fukujuen Kyoto Main Store](https://maps.app.goo.gl/X1rvUeW5tUQ3g5Zm8)              | Tea and desserts |             |
-| [PANCAKE ROOM - Kyoto Tower Sando](https://maps.app.goo.gl/vq4hmXpc437jQtzVA)       | Souffle pancake  |             |
-| [STEAK & BURGER, NICK STOCK Kyoto Tower](https://maps.app.goo.gl/D43VmjLUR6W6TPid8) | Wagyu burger     |             |
-
 - Fish Market
   - [Kyoto](https://maps.app.goo.gl/J6So1fYi4ktFbTAg9)
   - [Tokyo - Tsukiji](https://maps.app.goo.gl/3wzGdxsiB3CjLp9V9)
