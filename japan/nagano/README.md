@@ -11,7 +11,8 @@
 | [Ramen Misoya](https://maps.app.goo.gl/5dpuSeYu2foV6Dhk8)       | ramen          |                 |
 | [Togakushi](https://maps.app.goo.gl/FvAsLzbD4TWyGWar6)          | soba           |                 |
 | [Juwari Daizen Soba](https://maps.app.goo.gl/yUKZ4dPnS1mrpJr5A) | soba           |                 |
-| [Meijitei](https://maps.app.goo.gl/2hASVo9FNHbuPhiT6)           | sauce katsudon |                 |
+| [Meijitei](https://maps.app.goo.gl/2hASVo9FNHbuPhiT6)           | sauce katsudon | most famous     |
+| [Sukitei](https://maps.app.goo.gl/3EqoCzCuetRxionXA)            | sukiyaki       |                 |
 | [Heigoro](https://maps.app.goo.gl/tyv1wdQDACn9ETVCA)            | coffee/dessert |                 |
 | [Irohado](https://maps.app.goo.gl/uuvXV1NPCqUVEd6J8)            | oyaki          |                 |
 | [Bakery On!](https://maps.app.goo.gl/WZoqs8CgjXDTjKeCA)         | bakery         |                 |
